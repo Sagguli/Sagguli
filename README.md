@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Programming**
 
-- 👨‍💻 All of my projects are available at (My GitHub)[https://github.com/sagguli]
+- 👨‍💻 All of my projects are available at (https://github.com/sagguli)[My GitHub]
 
 - 💬 Ask me about **Java**
 
